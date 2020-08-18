@@ -1,5 +1,5 @@
 <ol>
-<h2 align='center'>CAREER STRATEGY</h2>
+<h2 align='center'>CAREER STRATEGY - STEPS</h2>
 <h4><li>O PROBLEMA</li></h4>
 <p>Ter um curriculo bem estruturado e escrito, para transmitir melhor as habilidades, as idéias e o profissionalismo com objetividade, clareza e confiança.</p>
 
