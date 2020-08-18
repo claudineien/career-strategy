@@ -33,6 +33,26 @@
 </p>
 
 <p>3.2.5. Claudinei E Nascimento</p>
-<p>Estas keywords foram definidas sob todos os dados analisados, mais os dados aprendidos durante os cursos data science realizados entre mai/2020 and out/2020, sendo :</p>
-<p>neural networks, relacionamento intrapessoal, detectar valores, capacidade criativa, capacidade de investigar, capacidade de investigar com criatividade, capacidade de trabalhar em equipe, facilidade de trabalhar em equipe, ajudar colegas de equipe, solicitar ajuda aos colegas de equipe, conhecer MongoDB, conhecer AWS Amazon, conhecer Outsystems, conhecer NLP, inglês para comunicação, inglês para escrita, inglês para leitura, abraçar diversas perspectivas, analisar outras perspectivas, capacidade para criar novas idéias, capacidade para inovar, capacidade de ajudar, vontade de ajudar, capacidade de inovar e melhorar a eficiência dos sistemas data science, vontade de inovar, melhorar eficiência dos sistemas data science, data science systems, suportes estatísticos, algoritmos modelos preditivos, modelos estatísticos, machine learning, analisar processos, sistemas complexos, críticos, modelos para mineração de dados, sistemas analíticos, desenvolver, manter sistemas, deep learning, bons conhecimentos em R, criativo, curioso, aplicar novos conceitos, comunicativo, atitude interativa, data scientists, data science, interativo, descobrir valores, identificar valores, dados ocultos, tomar decisões, buscar, inteligentes, mentalidade analítica, informações relevantes, coletar dados, treinar, testar, melhorar, modelos machine learning, técnicas adequadas, aprimorar procedimentos, coletas, fonte de dados, processar dados, limpar dados, verificar, integridade dos dados, desenvolver classificadores otimizados, construir classificadores otimizados, valorizar, negócios, organização, organizar, ser parceiro, forte relação de trabalho, melhorias operacionais, financeiros, colaborativo, influenciar, processo, gerenciar, testes, ciclo, consultoria, ad-hoc analysis, inovador</p>
+<p>Estas keywords foram definidas sob dados aprendidos durante os cursos data science realizados entre mai/2020 and out/2020, sendo :</p>
+<p>neural networks, detectar, valores, identificar, criar, interpretar, investigar, MongoDB, aws, amazon, nlp, neural language processing, inglês, perspectivas, probabilidade, estatística, regressão, linear, logistica, analisar, novas, idéias, inovar, ajudar, melhorar, código, algoritmo, eficiência, sistemas, data science, big data, estatísticos, modelos, predizer, preditivos, machine learning, ml, deep learning, dl, analítico, processos, complexos, críticos, mineração, minerar, dados, desenvolver, construir, manter, manutenção, linguagem, programação, R, python, javascript, criativo, criativa, curioso, aplicar, novos, conceitos, comunicativo, atitude, interativa, iterar, data scientists, interativo, descobrir, ocultos, decidir, decisões, buscar, pesquisar, coletar, inteligentes, mentalidade, analítica, informações, relevantes, separar, treinar, treino, testar, teste, técnicas, adequadas, match, correlacionar, padronizar, padronização, padrão, normatizar, normatização, aprimorar, mapa, procedimentos, coletas, fonte, processar, limpar, verificar, integridade, classificadores,otimizados, otimizar, valorizar, negócios, organização, organizar, parceiro, forte, persistir, relação, relacionar, melhorias, operacionais, operacional, financeiro, financeiros, time series, recomendador, colaborar, colaborativo, influenciar, gerenciar, ciclo, vida, consultoria, ad-hoc, analysis, inovador, relacionamento, intrapessoal</p>
 </ol>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
