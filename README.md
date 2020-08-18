@@ -1,7 +1,7 @@
 <ol>
-<h2 align='center'>CURRICULUM AND LINKEDIN - STEPS</h2>
+<h2 align='center'>ADJUSTMENTS IN CURRICULUM AND LINKEDIN - STEPS</h2>
 <h4><li>O PROBLEMA</li></h4>
-<p>Ter um curriculo e uma apresentação no linkedin bem estruturados e bem escritos, para transmitir melhor as habilidades, as idéias e o profissionalismo com objetividade, clareza e transmitir confiança e segurança aos recrutadores.</p>
+<p>Melhorar a estrutura e escrita do currículo e da apresentação no linkedin, para transmitir melhor as habilidades, as idéias e o profissionalismo com objetividade, clareza e transmitir confiança e segurança aos recrutadores.</p>
 
 <h4><li>A MELHOR SOLUÇÃO</li></h4>
 <p>Contratar uma empresa e/ou profissional de estratégia de carreira com ampla experência e com percentual de sucesso de contratação, recolocação, mudança de posição e/ou mudança de empresa acima de 88% do total dos seus clientes atendidos.</p>
