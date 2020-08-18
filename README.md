@@ -1,14 +1,15 @@
 <ol>
 <h2 align='center'>CAREER STRATEGY</h2>
 <h4><li>O PROBLEMA</li></h4>
-<p>Ter um curriculo bem estruturado e escrito, para transmitir minhas habilidades, minhas idéias e meu profissionalismo com objetividade, clareza
+<p>Ter um curriculo bem estruturado e escrito, para transmitir melhor as habilidades, as idéias e o profissionalismo com objetividade, clareza e confiança.</p>
 
 <h4><li>A MELHOR SOLUÇÃO</li></h4>
-<p>Contratar uma empresa e/ou profissional de estratégia de carreira com ampla experência e com sucesso acima de 88% do total dos seus clientes atendidos</p>
+<p>Contratar uma empresa e/ou profissional de estratégia de carreira com ampla experência e com percentual de sucesso acima de 88% do total dos seus clientes atendidos.</p>
 
 <h4><li>COLETAR DADOS</li></h4>
-<p>Foram coletados manualmente 36 amostras de uma população de aproximadamente 396 empresas Empresas no LinkedIn.</p>
-<p>As informações coletadas com vagas para Data Scientist Intenrship, Junior. Os dados coletados são : necessidade da empresa, descrições das tarefas, requisitos de experiência, requisitos de habilidade, requisitos de instrução</p>
+<p>Foram coletados manualmente 36 amostras de uma população de aproximadamente 396 Empresas no LinkedIn.</p>
+<p>As informações coletadas com oportunidades para trabalhar como Data Science Intenrship, Junior Data Scientist e Entry level Data Scientist.</p>
+<p>Os dados coletados são : necessidade da empresa, descrições das tarefas, requisitos de experiência, requisitos de habilidade, requisitos de instrução.</p>
 <h4>KEYWORD CURRICULUM FOR DATA SCIENTISTS</h4>
 <p></p>
 <h4>Alguns Países Europeus</h4>
