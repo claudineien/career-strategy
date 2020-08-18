@@ -4,11 +4,11 @@
 <p>Ter um curriculo bem estruturado e escrito, para transmitir melhor as habilidades, as idéias e o profissionalismo com objetividade, clareza e confiança.</p>
 
 <h4><li>A MELHOR SOLUÇÃO</li></h4>
-<p>Contratar uma empresa e/ou profissional de estratégia de carreira com ampla experência e com percentual de sucesso acima de 88% do total dos seus clientes atendidos.</p>
+<p>Contratar uma empresa e/ou profissional de estratégia de carreira com ampla experência e com percentual de sucesso de contratação, recolocação, mudança de posição e/ou mudança de empresa acima de 88% do total dos seus clientes atendidos.</p>
 
 <h4><li>COLETAR DADOS</li></h4>
 <p>Foram coletados manualmente 36 amostras de uma população de aproximadamente 396 Empresas no LinkedIn.</p>
-<p>As informações coletadas com oportunidades para trabalhar como Data Science Intenrship, Junior Data Scientist e Entry level Data Scientist.</p>
+<p>As informações coletadas com oportunidades para trabalhar como Data Science Internship, Junior Data Scientist e Entry level Data Scientist.</p>
 <p>Os dados coletados são : necessidade da empresa, descrições das tarefas, requisitos de experiência, requisitos de habilidade, requisitos de instrução.</p>
 <h4>KEYWORD CURRICULUM FOR DATA SCIENTISTS</h4>
 <p></p>
