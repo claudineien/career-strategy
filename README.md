@@ -36,6 +36,11 @@
 <p>Estas keywords foram definidas sob dados aprendidos durante os cursos data science realizados entre mai/2020 and out/2020, sendo :</p>
 <p>neural networks, detectar, valores, identificar, criar, interpretar, investigar, MongoDB, aws, amazon, nlp, neural language processing, inglês, perspectivas, probabilidade, estatística, regressão, linear, logistica, analisar, novas, idéias, inovar, ajudar, melhorar, código, algoritmo, eficiência, sistemas, data science, big data, estatísticos, modelos, predizer, preditivos, machine learning, ml, deep learning, dl, analítico, processos, complexos, críticos, mineração, minerar, dados, desenvolver, construir, manter, manutenção, linguagem, programação, R, python, javascript, criativo, criativa, curioso, aplicar, novos, conceitos, comunicativo, atitude, interativa, iterar, data scientists, interativo, descobrir, ocultos, decidir, decisões, buscar, pesquisar, coletar, inteligentes, mentalidade, analítica, informações, relevantes, separar, treinar, treino, testar, teste, técnicas, adequadas, match, correlacionar, padronizar, padronização, padrão, normatizar, normatização, aprimorar, mapa, procedimentos, coletas, fonte, processar, limpar, verificar, integridade, classificadores,otimizados, otimizar, valorizar, negócios, organização, organizar, parceiro, forte, persistir, relação, relacionar, melhorias, operacionais, operacional, financeiro, financeiros, time series, recomendador, colaborar, colaborativo, influenciar, gerenciar, ciclo, vida, consultoria, ad-hoc, analysis, inovador, relacionamento, intrapessoal</p>
 </ol>
+<p>Fontes</p>
+<ul>
+    <li><a href="https://storanicareers.com/">Storani Careers</a></li>
+</ul>
+<!--<p>- - - - - - -</p>
 <p>- - - - - - -</p>
 <p>- - - - - - -</p>
 <p>- - - - - - -</p>
@@ -56,3 +61,20 @@
 <p>- - - - - - -</p>
 <p>- - - - - - -</p>
 <p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>
+<p>- - - - - - -</p>-->
