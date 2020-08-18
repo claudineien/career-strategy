@@ -7,9 +7,7 @@
 <p>Contratar uma empresa e/ou profissional de estratégia de carreira com ampla experência e com percentual de sucesso de contratação, recolocação, mudança de posição e/ou mudança de empresa acima de 88% do total dos seus clientes atendidos.</p>
 
 <h4><li>COLETAR DADOS</li></h4>
-<p>3.1. Foram coletados manualmente 36 amostras de uma população de aproximadamente 396 Empresas no LinkedIn.</p>
-<p>As informações coletadas com oportunidades para trabalhar como Data Science Internship, Junior Data Scientist, Entry level Data Scientist.</p>
-<p>Campos pesquisados :
+<p>3.1. Foram coletados manualmente 36 amostras de uma população de aproximadamente 396 Empresas no LinkedIn. As informações coletadas com oportunidades para trabalhar como Data Science Internship, Junior Data Scientist, Entry level Data Scientist e o seções pesquisadas foram :</p>
     <ul>
         <li>descrição do cargo</li>
         <li>necessidade da empresa</li>
