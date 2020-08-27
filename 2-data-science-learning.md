@@ -72,7 +72,17 @@ time series analysis
 Mallet, Tensor Flow, SageMaker
 Experience with Big Data ML toolkits, such as Mahout, SparkML or H20, Hadoop, Spark, Flink, Kafka
 Skills in quantitative analysis, problem definition, synthesis & recommendation development will be essential
-
+Set up a test (A/B test or pre-post) to measure performance in the best possible way
+Prior experience in performance measurement, creatively applying regression techniques/modelling, optimization techniques, A/B testing, etc for business applications
+Deep understanding of statistics, experimental design, and causal inference
+Aprendizado em Able to spot and pursue opportunities as well as to translate high-level directions into practical projects and lead/drive their completion with minimal supervision.
+Executes at all stages of model development and delivery including data definition, sampling, preprocessing, feature selection, model generation, and validation and support of production model release with an emphasis toward the latter stages of model development.
+Ability to leverage Cloud computing services
+Skilled in visualization (Tableau or Power BI)
+Experience in working with numpy, scipy, scikit-learn, pandas
+Experience reporting machine learning accuracy and precision in industry
+You are familiar with (in no particular order): logistic regression, gradient descent, regularization, cross-validation, overfitting, bias, variance, convex optimization, eigenvectors, relational databases, SQL, latency, computational complexity, sparse matrices, feature engineering, clustering
+data scientists draw on quantitative methods and business intuition to uncover learnings that drive key business decisions
 
 </p>
 
