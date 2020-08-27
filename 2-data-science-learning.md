@@ -6,7 +6,7 @@
 </h4>
 
 <h1 align="center">DATA SCIENTIST - LEARNING</h1>
-Com início dos estudos em Data Science em 01/05/2020 adquiri/obtive conhecimento qualificado conforme explicado seguir :
+Iniciei os estudos em Data Science em 01/05/2020 e a seguir descrevo uma parte do conhecimento de qualidade que adquiri/obtive :
 </p>
 
 <h3>OVERVIEW</h3>
@@ -27,7 +27,7 @@ Com início dos estudos em Data Science em 01/05/2020 adquiri/obtive conheciment
 </ol>
 
 <h3>BIBLIOTECAS, OBJETOS E MÉTODOS EM PYTHON</h3>
-<p>Comuns a qualquer projeto Data Science
+<p>Comuns em qualquer projeto Data Science
     <ul>
         <li>pandas</li>
         <li>pandas-profiling</li>
@@ -82,6 +82,8 @@ Com início dos estudos em Data Science em 01/05/2020 adquiri/obtive conheciment
 
 <p>Classificadores
     <ul>
+        <li>sklearn.neighbors - KNeighborsClassifier</li>
+        <li>sklearn.naive_bayes - MultinomialNB</li>
         <li>sklearn.tree - DecisionTreeClassifier</li>
         <li>sklearn.ensemble - RandomForestClassifier</li>
         <li>sklearn.linear_model - LogisticRegression</li>
@@ -99,9 +101,18 @@ Com início dos estudos em Data Science em 01/05/2020 adquiri/obtive conheciment
 
 <p>Métricas para analisar e validar resultados
     <ul>
+        <li>metrics.classification_report</li>
+        <li>pandas - crosstab</li>
+        <li>sklearn.model_selection - cross_val_predict</li>
         <li>predict_proba</li>
         <li>sklearn.metrics - roc_auc_score</li>
         <li>sklearn.metrics average_precision_score</li>
+    </ul>
+</p>
+
+<p>Estatística Descritiva
+    <ul>
+        <li>scipy.stats.mstats - gmean, hmean</li>
     </ul>
 </p>
 
@@ -117,27 +128,48 @@ Com início dos estudos em Data Science em 01/05/2020 adquiri/obtive conheciment
     </ul>
 </p>
 
-Criar app com:<br>
-Flask no vscode<br>
+<p>Criar estrutura para demonstrar a solução Data Science
+    <ul>
+        <li>app com Flask</li>
+        <li>app com streamlit</li>
+        <li>container com Docker</li>
+        <li>deploy no Heroku</li>
+    </ul>
+</p>
 
-Criar container com Docker<br>
-
-Trabalhar com Heroku<br>
-
-DB SQL SQLite3<br>
-
-<p>Banco de dados
+<p>Bibliotecas para trabalhor Banco de dados
     <ul>
         <li>SQLAlchemy</li>
         <li>pymysql</li>
         <li>mysql-connector-python</li>
+        <li>sqlite3</li>
     </ul>
 </p>
 
+<p>SQL Data Base
+    <ul>
+        <li>My Sql</li>
+        <li>SQLite3</li>
+    </ul>
+</p>
 
+<h3>DIVERSAS TÉCNICAS IMPORTANTES</h3>
+<p>
+    <ul>
+        <li>De amostragem</li>
+        <li>Upsampling</li>
+        <li>Downsampling</li>
+        <li>Problem Framing</li>
+        <li>Feature Engineering</li>
+        <li>Engenharia de Features para Séries temporais: Sazonalidade, Janelas de tempo (lag)., Janelas de tempo com estatísticas</li>
+        <li>Automatizar modelos com pipelines</li>
+    </ul>
+</p>
 
-<h3>CONCEITOS TÉCNICOS</h3>
-<p>Como utilizar a técnica do <a href="https://github.com/claudineien/graduate-datascientist/blob/master/00lifecycledatascience.md">ciclo de vida de uma solução em ciência de dados</a> cumprindo os seguintes passos :
+<h3>APLICAÇÃO DO CONHECIMENTO EM QUALQUER PROJETO REAL</h3>
+<p>
+Tão importante quanto todos as bibliotecas, métodos, objetos em python, banco de dados sql ou nosql é a metodologia para aplicar a solução direcionada do cliente.</p>
+<p>Atualmente aplico em meus projetos de aprendizado a técnica do <a href="https://github.com/claudineien/graduate-datascientist/blob/master/00lifecycledatascience.md">ciclo de vida de uma solução em ciência de dados</a> cumprindo os seguintes passos :
     <ol>
         <li>definir o problema</li>
         <li>definir a melhor solução</li>
@@ -146,23 +178,30 @@ DB SQL SQLite3<br>
         <li>definir como testar a solução desenvolvida</li>
     </ol>
 </p>
+<p>Esta técnica cobre todo o aspecto de ouvir o cliente, entender o que o cliente precisa mesmo que esteja com dificuldade de transmitir o que precisa, orientar o cliente na definição do problema e da melhor solução, ter uma forte presença no projeto, ter uma forte e clara comunicação com todos os envolvidos no projeto, desenvolver o melhor trabalho possível no dataset para que o modelo machine learning, deep learning e/ou neural networks tenha a eficiência, eficácia e efetividade esperada, desenvolver pequenos projetos testes para identificar a solução mais adequada em machine learning, deep learning e/ou neural networks para resolver o problema, conseguir escolher o melhor modelo ao aplicar as técnicas de métricas e validações dos modelos, documentar cada passo realizado juntamente com a equipe envolvida, aplicar o ETL-Extract Transform Load com alta qualidade e documentar o que for necessário para evitar dúvidas sobre o projeto data science.
+</p>
 
-<h3>APLICAÇÃO DO CONHECIMENTO EM QUALQUER PROJETO REAL</h3>
+<h3>CONHECIMENTOS COMPLEMENTARES</h3>
+<p>Até o momento não apliquei Data Science sob estas tecnologias. Estão na mira.</p>
 <p>
+    <ul>
+        <li>ERP Protheus Totvs S.A</li>
+        <li>AWS Amazon</li>
+        <li>OutSystems Platform</li>
+    </ul>
+</p>
+
 Boas práticas para analisar os dados
 Boas práticas para gerar dados para teste
 Boas práticas para salvar os projetos
 Testar modelos simples sobre os datasets, para decidir o modelo mais adequado a solução
-Automatizar com pipelines
 
-
-
-Realizarei a coleta de dataset com 
-Análise, Interpretação de time series com identificação de padrões machine learning
+Realizar coleta de dataset com 
+Analisar, Interpretar de time series com identificação de padrões machine learning
 Identificar soluções para problemas de previsão
-estadística
-Conocimiento de SQL
-Conocimientos en AWS
+estatística
+Conhecimento em SQL
+Conhecimento em AWS
 Conocimientos o experiencia en NLP
 Aprendi a utilizar a criatividade para melhorar limpar os dados Aprendi a utilizar a criatividade para melhora o modelo machine learning
 X A I - Explainable AI - Inteligência Artificial compreensivel aos humanos
