@@ -1,16 +1,66 @@
-<p>DATA SCIENTIST - LEARNING<br>
-Inicio dos estudos em Data Science 01/05/2020 e adquiri/obtive as seguintes habilidades específicas :
+<h4>Objetivo : Explicar sobre conhecimentos adquiridos para se tornar um Data Scientist com python</h4>
+<h4>Público alvo : A partir do momento que se entende por gente</h4>
+<h4><a href="blank_">[En]</a> | <a href="blank_">[Pt-Br]</a></h4>
+
+<h1>DATA SCIENTIST - LEARNING</h1>
+Com início dos estudos em Data Science em 01/05/2020 adquiri/obtive conhecimento qualificado conforme explicado seguir :
 </p>
 
+<h3>OVERVIEW</h3>
 <ol>
-    <li>Entendi melhor o que é, para que serve e como usar Data Science</li>
+    <li>Entendi o que é, para que serve e como usar Data Science</li>
     <li>Entendi a diferença entre Data Science e áreas correlacionadas como Big Data, Data Analysis, Business Analysis, Data Engineer, entre outros</li>
+    <li>Entendi a diferença entre Machine Learning, Deep Learning, Neural Networks na Inteligência Artificial</li>
     <li>Aprendi a utilizar a ferramenta microsoft visual studio code no desenvolvimento de soluções Data Science utilizando a linguagem de programação python</li>
     <li>Aprendi a utilizar as ferramentas jupyter notebook e google labs no desenvolvimento de soluções Data Science utilizando a linguagem de programação python</li>
     <li>Aprendi que é necessário definir o problema, definir a melhor solução, definir a melhor solução utilizando machine learning, definir como a solução será usada produtivamente e como testar a solução desenvolvida. <a href="https://github.com/claudineien/graduate-datascientist/blob/master/00lifecycledatascience.md">Ciclo de vida de uma solução em Ciência de Dados</a></li>
-    <li>Aprendi algumas otimizações em python para Data Science</li>
-    <li> </li>
+    <li>Aprendi algumas otimizações em python específicas à Data Science</li>
+    <li>Aprendi sobre todas as principais bibliotecas utilizadas em machine learning e deep learning com uso em machine learning</li>
+    <li>Entendi sobre a importância da qualidade do dataset para o modelo machine learning e/ou deep learning</li>
+    <li>Entendi sobre a importância da qualidade da limpeza e preparação do dataset para o modelo machine learning e/ou deep learning</li>
+    <li>Aprendi sobre todas as principais técnicas utilizadas em machine learning e deep learning com uso em machine learning</li>
+    <li>Entendi a importância da boa comunicação com os stakeholders envolvidos projeto Data Science</li>
+    <li>Entendi a importância em documentar desde a definição do problema ao deploy em produção em projetos Data Science</li>
 </ol>
+
+<h3>USO PRÁTICO TÉCNICO PRÁTICO</h3>
+<p>
+Análise, Interpretação de time series com identificação de padrões machine learning
+Identificar soluções para problemas de previsão
+estadística
+Conocimiento de SQL
+Conocimientos en AWS
+Conocimientos o experiencia en NLP
+Aprendi a utilizar a criatividade para melhorar limpar os dados Aprendi a utilizar a criatividade para melhora o modelo machine learning
+X A I - Explainable AI - Inteligência Artificial compreensivel aos humanos
+improve efficiency by delivering data science systems
+Several Graphs Plots 
+providing statistical support to enable data-driven business decisions
+create predictive models
+statistical matters
+create high quality statistical models
+mining complex data
+técnicas para discover the information hidden in vast amounts of data and to make smarter decisions
+analytical mindset to dig into and gather relevant data, research, train, and test models and modeling techniques suitable, you will support
+aprenti sobre a delivering results back to the business in a tangible and coherent way
+Processing, cleansing, and verifying the integrity of data used for analysis
+predictive using machine learning techniques
+Aprendi técnicas para Identify improvements to current processes and investigate future opportunities to the various functions in the organization
+Support strategic efforts to engage the wider organization in this space
+Manage testing cycles
+Doing ad-hoc analysis as required and presenting results in a clear manner we also expect from you:
+Pursuing a Master’s (preferred) or Bachelor's Degree (required) in Business Analytics, Mathematics, Statistics, Computer Science, or equivalent degree with a data science focus
+Aprendi a trabalhar com Hadoop, Spark
+Interesse/conhecimentos em Machine learning e Deep learning
+Aprendi a utilizar os algorítmos keras
+Nível iniciante com TensorFlow
+Construir modelos que apoiam e aumentam o conhecimento sobre o setor em trabalho
+Automação de reporting nas vertentes funcional e técnica (ETL, analítica e reporting)
+Conhecimento iniciante em quantitative systems and forecasting models that generate predictions of the highest level of visibility and importance for MegaBeetle financial and operational planning
+
+
+
+</p>
 
 GIT HUB
 GIT
@@ -26,9 +76,6 @@ Gosto de conversar com pessoas consideradas usuários avançados no uso de tecno
 Gosto de conversar com profissionais iniciantes, por que a dúvida destes me ajudam a me focar em soluções que ainda não pensei
 Gosto de conversar com profissionais experientes, para aprender sobre as melhores práticas, evitar erros já conhecidos, saber quais são problemas ainda não resolvidos (issues) , aplicar o que esta sendo utilizado por profissionais experientes
 
-<h4>Objetivo : Explicar o que Aprendeu</h4>
-<h4>Público alvo : A partir do momento que se entende por gente</h4>
-<h4><a href="blank_">[En]</a> | <a href="blank_">[Pt-Br]</a></h4>
 
 <h1 align='center'>PASSOS</h1>
 <h3>ENTENDER O QUE CONCEITO </h3>
