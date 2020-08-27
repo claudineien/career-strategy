@@ -57,7 +57,21 @@ Nível iniciante com TensorFlow
 Construir modelos que apoiam e aumentam o conhecimento sobre o setor em trabalho
 Automação de reporting nas vertentes funcional e técnica (ETL, analítica e reporting)
 Conhecimento iniciante em quantitative systems and forecasting models that generate predictions of the highest level of visibility and importance for MegaBeetle financial and operational planning
-
+will partner with software developers and data engineers to build end-to-end data pipelines and production code, and you will have exposure to senior leadership as we communicate results and provide scientific guidance to the business
+Improve upon existing methodologies by developing new data sources, testing model enhancements, and fine-tuning model parameters
+Experiência com SQL e bases de dados relacionais
+Capacidade crítica e sentido de detalhe
+Utilizando pragmatism para desenvolver 
+Knowledge of probability and statistical models (e.g, Distributions, Statistical Inference, Hypothesis testing, Bayesian framework, etc)
+transformarem dados em vantagem competitive
+desenvolvemos e implementamos soluções, que garantem Receitas, Custos e Margens, Gestão de Risco e Fraude, e Eficiência Operacional
+Probability and statistics, exploratory data analysis, linear regression, hypothesis testing.
+Develop highly reliable and scalable systems that go into real products
+statistical and machine learning models such as regressions, Markov, decision trees, clustering, neural networks, convolutional networks, deep learning, graphs, LDA, SVM
+time series analysis
+Mallet, Tensor Flow, SageMaker
+Experience with Big Data ML toolkits, such as Mahout, SparkML or H20, Hadoop, Spark, Flink, Kafka
+Skills in quantitative analysis, problem definition, synthesis & recommendation development will be essential
 
 
 </p>
