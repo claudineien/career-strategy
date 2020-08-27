@@ -191,7 +191,7 @@ Tão importante quanto todos as bibliotecas, métodos, objetos em python, banco 
     </ul>
 </p>
 
-Boas práticas para analisar os dados
+<!--Boas práticas para analisar os dados
 Boas práticas para gerar dados para teste
 Boas práticas para salvar os projetos
 Testar modelos simples sobre os datasets, para decidir o modelo mais adequado a solução
@@ -476,7 +476,7 @@ p
         <li> li </li>
     </ul>
 </p>
-
+-->
 <!--
 <p>labelling</p>
 <p>Active learning</p>
