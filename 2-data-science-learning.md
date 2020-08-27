@@ -1,5 +1,8 @@
-<h4>Objetivo : Explicar sobre conhecimentos adquiridos para se tornar um Data Scientist com python</h4>
-<h4>Público alvo : A partir do momento que se entende por gente</h4>
+<h4>
+    <p>Objetivo : Explicar sobre conhecimentos adquiridos para se tornar um Data Scientist com python<br>
+    Público alvo : A partir do momento que se entende por gente
+    </p>
+</h4>
 <h4><a href="blank_">[En]</a> | <a href="blank_">[Pt-Br]</a></h4>
 
 <h1 align="center">DATA SCIENTIST - LEARNING</h1>
