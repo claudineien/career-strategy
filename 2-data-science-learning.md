@@ -16,7 +16,7 @@ Com início dos estudos em Data Science em 01/05/2020 adquiri/obtive conheciment
     <li>Entendi a diferença entre Machine Learning, Deep Learning, Neural Networks na Inteligência Artificial</li>
     <li>Aprendi a utilizar a ferramenta microsoft visual studio code no desenvolvimento de soluções Data Science utilizando a linguagem de programação python</li>
     <li>Aprendi a utilizar as ferramentas jupyter notebook e google labs no desenvolvimento de soluções Data Science utilizando a linguagem de programação python</li>
-    <li>Aprendi que é necessário definir o problema, definir a melhor solução, definir a melhor solução utilizando machine learning, definir como a solução será usada produtivamente e como testar a solução desenvolvida. <a href="https://github.com/claudineien/graduate-datascientist/blob/master/00lifecycledatascience.md">Ciclo de vida de uma solução em Ciência de Dados</a></li>
+    <li>Aprendi a importância do <a href="https://github.com/claudineien/graduate-datascientist/blob/master/00lifecycledatascience.md">ciclo de vida de uma solução em Ciência de Dados</a></li>
     <li>Aprendi algumas otimizações em python específicas à Data Science</li>
     <li>Aprendi sobre todas as principais bibliotecas utilizadas em machine learning e deep learning com uso em machine learning</li>
     <li>Entendi sobre a importância da qualidade do dataset para o modelo machine learning e/ou deep learning</li>
@@ -26,8 +26,138 @@ Com início dos estudos em Data Science em 01/05/2020 adquiri/obtive conheciment
     <li>Entendi a importância em documentar desde a definição do problema ao deploy em produção em projetos Data Science</li>
 </ol>
 
-<h3>USO PRÁTICO TÉCNICO PRÁTICO</h3>
+<h3>BIBLIOTECAS, OBJETOS E MÉTODOS EM PYTHON</h3>
+<p>Comuns a qualquer projeto Data Science
+    <ul>
+        <li>pandas</li>
+        <li>pandas-profiling</li>
+        <li>xlrd</li>
+        <li>openpyxl</li>
+        <li>cufflinks</li>
+        <li>chart_studio</li>
+        <li>scikit-learn</li>
+        <li>sklearn</li>
+        <li>numpy</li>
+        <li>ipywidgets</li>
+        <li>pydot</li>
+        <li>graphviz</li>
+        <li>seaborn</li>
+        <li>matplotlib</li>
+        <li>plotly</li>
+        <li>plot</li>
+        <li>scipy</li>
+        <li>mlxtend</li>
+    </ul>
+</p>
+
+<p>Text mining
+    <ul>
+        <li>fuzzywuzzy</li>
+        <li>levenshtein</li>
+        <li>nltk | nltk.download()</li>
+        <li>statsmodels</li>
+        <li>textblob</li>
+    </ul>
+</p>
+
+<p>Tratamento de imagens e reconhecimento facial em fotos e/ou pela webcam
+    <ul>
+        <li>keras</li>
+        <li>pillow</li>
+        <li>cv2</li>
+        <li>mtcnn</li>
+        <li>tensorflow</li>
+        <li>opencv</li>
+    </ul>
+</p>
+
+<p>Scraper de páginas html, xml
+    <ul>
+        <li>BeautifulSoup</li>
+        <li>requests</li>
+        <li>youtube_dl</li>
+        <li>Scrapy</li>
+    </ul>
+</p>
+
+<p>Classificadores
+    <ul>
+        <li>sklearn.tree - DecisionTreeClassifier</li>
+        <li>sklearn.ensemble - RandomForestClassifier</li>
+        <li>sklearn.linear_model - LogisticRegression</li>
+        <li>lightgbm - LGBMClassifier</li>
+    </ul>
+</p>
+
+<p>Transformar palavras
+    <ul>
+        <li>sklearn.feature_extraction.text - TfidfVectorizer</li>
+        <li>scipy.sparse hstack</li>
+        <li>scipy.sparse vstack</li>
+    </ul>
+</p>
+
+<p>Métricas para analisar e validar resultados
+    <ul>
+        <li>predict_proba</li>
+        <li>sklearn.metrics - roc_auc_score</li>
+        <li>sklearn.metrics average_precision_score</li>
+    </ul>
+</p>
+
+<p>Bayesian Optimization
+    <ul>
+        <li>skopt - forest_minimize</li>
+    </ul>
+</p>
+
+<p>Pipeline
+    <ul>
+        <li>sklearn.pipeline - make_pipeline</li>
+    </ul>
+</p>
+
+Criar app com:<br>
+Flask no vscode<br>
+
+Criar container com Docker<br>
+
+Trabalhar com Heroku<br>
+
+DB SQL SQLite3<br>
+
+<p>Banco de dados
+    <ul>
+        <li>SQLAlchemy</li>
+        <li>pymysql</li>
+        <li>mysql-connector-python</li>
+    </ul>
+</p>
+
+
+
+<h3>CONCEITOS TÉCNICOS</h3>
+<p>Como utilizar a técnica do <a href="https://github.com/claudineien/graduate-datascientist/blob/master/00lifecycledatascience.md">ciclo de vida de uma solução em ciência de dados</a> cumprindo os seguintes passos :
+    <ol>
+        <li>definir o problema</li>
+        <li>definir a melhor solução</li>
+        <li>definir a melhor solução em machine learning e/ou deep learning e/ou neural networks</li>
+        <li>definir como a solução será usada produtivamente</li>
+        <li>definir como testar a solução desenvolvida</li>
+    </ol>
+</p>
+
+<h3>APLICAÇÃO DO CONHECIMENTO EM QUALQUER PROJETO REAL</h3>
 <p>
+Boas práticas para analisar os dados
+Boas práticas para gerar dados para teste
+Boas práticas para salvar os projetos
+Testar modelos simples sobre os datasets, para decidir o modelo mais adequado a solução
+Automatizar com pipelines
+
+
+
+Realizarei a coleta de dataset com 
 Análise, Interpretação de time series com identificação de padrões machine learning
 Identificar soluções para problemas de previsão
 estadística
@@ -86,6 +216,25 @@ Experience in working with numpy, scipy, scikit-learn, pandas
 Experience reporting machine learning accuracy and precision in industry
 You are familiar with (in no particular order): logistic regression, gradient descent, regularization, cross-validation, overfitting, bias, variance, convex optimization, eigenvectors, relational databases, SQL, latency, computational complexity, sparse matrices, feature engineering, clustering
 data scientists draw on quantitative methods and business intuition to uncover learnings that drive key business decisions
+to develop data pipelines, identify areas of interest and provide solutions
+Sólida experiência em estatística descritiva, com capacidade de exploração de dados utilizando Python e base Hive,
+Conhecimento de Tensorflow, Keras e Torch
+Experiência em manipulação de dados (data cleaning, data augmenting, data selection)
+Definir e implementar análises exploratórias de dados
+Mineração de texto (Caracterização, sumarização, agregação)
+Jupyter/RStudio; SQL e Oracle; NoSQL e MongoDB;
+Full-text search e ElasticSearch;
+Plataforma AWS (S3, EC2, EMR, Athena, DynamoDB);
+Inferência estatística uni/multivariada, regressões e séries temporais;
+Aprendizado de máquina (Árvores de decisão e Redes Neurais);
+Deep learning (CNN, RNN, LSTM) aplicada a processamento de texto e imagens;
+Restful APIs e swagger;
+Versionamento de código em Git;
+MapReduce, Hadoop, Spark
+Como trabalhamos com dados de varejo físico, irá trabalhar com dados real-time e batch de mais de 40 milhões de Preços e Sortimento por dia(entre dados internos e externos), focamos em criar Produtos de Dados que auxiliem ou criar produto final, produtos leitura de vídeo, classificação automática de produtos, previsão de promoção, normalização de preço de produtos por atacado e varejo, recomendação de produtos de uma mesma sortimento dos varejistas, extração de features de produtos, validação de sortimento e ruptura permanente de produtos
+Acompanhar dados e métricas da Mobile Intelligence (ASO/SEO) e Reviews Intelligence (monitoramento de App Stores), bem como a utilização desses dados para a criação de modelos preditivos e a elaboração de dashboards para clientes, dando suporte ao time de estratégia e atendimento
+Criação de Dashboards com indicadores focados em resolução de problema específicos da área da saúde (por exemplo, tempo de tratamento em oncologia, linhas de tratamento em doenças inflamatórias, etc)
+
 
 </p>
 
