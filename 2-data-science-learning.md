@@ -11,19 +11,19 @@ Com início dos estudos em Data Science em 01/05/2020 adquiri/obtive conheciment
 
 <h3>OVERVIEW</h3>
 <ol>
-    <li>Entendi o que é, para que serve e como usar Data Science</li>
-    <li>Entendi a diferença entre Data Science e áreas correlacionadas como Big Data, Data Analysis, Business Analysis, Data Engineer, entre outros</li>
-    <li>Entendi a diferença entre Machine Learning, Deep Learning, Neural Networks na Inteligência Artificial</li>
-    <li>Aprendi a utilizar a ferramenta microsoft visual studio code no desenvolvimento de soluções Data Science utilizando a linguagem de programação python</li>
-    <li>Aprendi a utilizar as ferramentas jupyter notebook e google labs no desenvolvimento de soluções Data Science utilizando a linguagem de programação python</li>
-    <li>Aprendi a importância do <a href="https://github.com/claudineien/graduate-datascientist/blob/master/00lifecycledatascience.md">ciclo de vida de uma solução em Ciência de Dados</a></li>
-    <li>Aprendi algumas otimizações em python específicas à Data Science</li>
-    <li>Aprendi sobre todas as principais bibliotecas utilizadas em machine learning e deep learning com uso em machine learning</li>
-    <li>Entendi sobre a importância da qualidade do dataset para o modelo machine learning e/ou deep learning</li>
-    <li>Entendi sobre a importância da qualidade da limpeza e preparação do dataset para o modelo machine learning e/ou deep learning</li>
-    <li>Aprendi sobre todas as principais técnicas utilizadas em machine learning e deep learning com uso em machine learning</li>
-    <li>Entendi a importância da boa comunicação com os stakeholders envolvidos projeto Data Science</li>
-    <li>Entendi a importância em documentar desde a definição do problema ao deploy em produção em projetos Data Science</li>
+    <li>O que é, para que serve e como usar Data Science</li>
+    <li>A diferença entre Data Science e áreas correlacionadas como Big Data, Data Analysis, Business Analysis, Data Engineer, entre outros</li>
+    <li>A diferença entre Machine Learning, Deep Learning, Neural Networks na Inteligência Artificial</li>
+    <li>Como utilizar a ferramenta microsoft visual studio code no desenvolvimento de soluções Data Science utilizando a linguagem de programação python</li>
+    <li>Como utilizar as ferramentas jupyter notebook e google labs no desenvolvimento de soluções Data Science utilizando a linguagem de programação python</li>
+    <li>A importância do <a href="https://github.com/claudineien/graduate-datascientist/blob/master/00lifecycledatascience.md">ciclo de vida de uma solução em Ciência de Dados</a></li>
+    <li>Algumas otimizações em python específicas à Data Science</li>
+    <li>Todas as principais bibliotecas utilizadas em machine learning e deep learning com uso em machine learning</li>
+    <li>A importância da qualidade do dataset para o modelo machine learning e/ou deep learning</li>
+    <li>A importância da qualidade da limpeza e preparação do dataset para o modelo machine learning e/ou deep learning</li>
+    <li>Todas as principais técnicas utilizadas em machine learning e deep learning com uso em machine learning</li>
+    <li>A importância da boa comunicação com os stakeholders envolvidos projeto Data Science</li>
+    <li>A importância em documentar desde a definição do problema ao deploy em produção em projetos Data Science</li>
 </ol>
 
 <h3>BIBLIOTECAS, OBJETOS E MÉTODOS EM PYTHON</h3>
